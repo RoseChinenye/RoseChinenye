@@ -10,7 +10,7 @@ professional software development experience.
 Core, complemented by a solid understanding of unit testing, design patterns, and object-oriented
 software design principles.
 - 💬 We can have a call over a coffee break to discuss the world's next big thing.
-- 📫 My portfolio link <a href="#"> 👉 HERE</a>
+- 📫 My portfolio link <a href="https://rosechinenye.github.io/Chinenye-Portfolio/"> 👉 HERE</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
