@@ -4,9 +4,9 @@ My name is Chinenye Okeke. Experienced Software Engineer with a second class upp
 professional software development experience.
 
 <h3 align="left">About Me:</h3>
-- 🔭 I’m currently working on .NET projects.
-- 🌱 I’m currently learning Amazon Web Services(AWS) Services.
-- 👯  Possesses expertise in C# (.NET), ASP.NET MVC, ASP.NET API, SQL and Entity Framework
+- 🔭 I’m currently working on C# .NET projects.
+- 🌱 I have knowledge of Amazon Web Services(AWS).
+- 👯 Possesses expertise in C# (.NET), ASP.NET MVC, ASP.NET API, SQL and Entity Framework
 Core, complemented by a solid understanding of unit testing, design patterns, and object-oriented
 software design principles.
 - 💬 We can have a call over a coffee break to discuss the world's next big thing.
