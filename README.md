@@ -1,6 +1,6 @@
 ### Hi Amazing Person 👋
 
-My name is Chinenye Okeke. Experienced Software Engineer with a second class upper Bachelor's degree in Computer Science and over 3 years of
+My name is Chinenye Okeke. Experienced Software Engineer with a second class upper Bachelor's degree in Computer Science and over 4 years of
 professional software development experience.
 
 <h3 align="left">About Me:</h3>
